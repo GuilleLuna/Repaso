@@ -10,6 +10,7 @@ public class Main {
         Calculando cal1 = new Calculando();
         
         cal1.add(2.4,3.4);
+        cal1.divide(2,3);
     }
 
 }
